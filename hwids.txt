@@ -1,1 +1,5 @@
+[users_list]
 f65a07f593dc6ceb6690f5e9acea2601:developer001
+
+[details]
+1.9.6
